@@ -9,6 +9,4 @@ Dosen pengampu: Leni Fitriani, S.T., M.Kom.
    - Pseudocode proses inferensi
    - Alur inferensi dari input ke output sistem.
 2. soal_2_review_junal.pdf : Merupakan review jurnal ilmiah internasional yang membahas penerapan Artificial Intelligence (Machine Learning) dalam bidang pertanian, dengan fokus pada prediksi kekeringan pertanian menggunakan metode Random Forest dan Artificial Neural Network.
-4. Data pendukung : Implementasi program sistem pakar menggunakan bahasa Python, berbentuk file notebook (.PY) dari Google Colab.
-
-# Tujuan 
+4. Data pendukung : Implementasi program sistem pakar menggunakan bahasa Python, berbentuk file notebook (.py) dari Google Colab dan file jurnalnya.
