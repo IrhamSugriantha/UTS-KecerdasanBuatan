@@ -12,5 +12,5 @@ Dosen pengampu: Leni Fitriani, S.T., M.Kom.
 2. Soal_2_review_jurnal.pdf
    Merupakan review jurnal ilmiah internasional yang membahas penerapan Artificial Intelligence (Machine Learning) dalam bidang pertanian, dengan fokus pada prediksi kekeringan pertanian menggunakan metode Random Forest dan Artificial Neural Network.
 3. Data Pendukung
-   Implementasi program sistem pakar mmenggunakan bahasa pytho, berbentuk file notebook(.py) dari Google Colab.
+   Implementasi program sistem pakar mmenggunakan bahasa python, berbentuk file notebook(.py) dari Google Colab.
    Dan juga file jurnal
